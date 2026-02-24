@@ -1,4 +1,4 @@
-# Laravel Book Reviews App
+# Laravel Book Review App
 
 A Laravel web application for browsing books and submitting reviews with star ratings. Books can be filtered by popularity and rating across different time windows, and all data is cached for fast page loads.
 
@@ -72,7 +72,7 @@ Then update your `.env` file with the following:
 DB_CONNECTION=mariadb
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=book_reviews
+DB_DATABASE=book_review
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
